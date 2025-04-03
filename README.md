@@ -31,13 +31,17 @@ If your cyber security people are worried about a random EXE you found on the in
 # Usage
 
 1. Move all three files(File Fiesta.exe, Randomwords.exe, sombrero_PNG7.png) to the file share you want to create files on.
+
   ![RequiredFiles](./Media/Screenshots/Files_Fiesta_Parts.jpg)
 
 2. Run "File Fiesta.exe"
+
   ![FileFiesta1](./Media/Screenshots/Files_Fiesta1.jpg)
 
 3. 
+
   ![FileFiesta2](./Media/Screenshots/Files_Fiesta2.jpg)
+  
 # Support 
 
 This repository is currently maintained by a single IT. Please consider sponsoring 404Staging to help maintain this project and others.
