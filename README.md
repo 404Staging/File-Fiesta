@@ -35,13 +35,24 @@ If your cyber security people are worried about a random EXE you found on the in
   ![RequiredFiles](./Media/Screenshots/Files_Fiesta_Parts.jpg)
 
 2. Run "File Fiesta.exe"
+    - Only two data points are required!
+      - Entry field 1: The directory you want the files created in.
+      - Entry Field 2: The desired size of the directory in GB. If you want roughly 1GB of random files enter "1".
+        - The file size is a soft limit. It may be a bit high or low of 1GB due to the random file sizes. It is recommeded that you leave 10% of disk space on the primay OS drive, and 2-3% on a secondary data drive. 
+    - Click the Run Button.
 
   ![FileFiesta1](./Media/Screenshots/Files_Fiesta1.jpg)
 
-3. 
+3. View the results
+
+- You will see the name of the ramdom files being created in the message block at the bottom of the application. 
 
   ![FileFiesta2](./Media/Screenshots/Files_Fiesta2.jpg)
-  
+
+- Once the files are created feel free to move them around, rename them, or whatever is needed to make a more convicint environment.
+
+  ![ShareFiles](./Media/Screenshots/Share_Files.jpg)
+
 # Support 
 
 This repository is currently maintained by a single IT. Please consider sponsoring 404Staging to help maintain this project and others.
