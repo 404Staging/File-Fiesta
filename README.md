@@ -45,11 +45,11 @@ If your cyber security people are worried about a random EXE you found on the in
 
 3. View the results
 
-- You will see the name of the ramdom files being created in the message block at the bottom of the application. 
+  - You will see the name of the ramdom files being created in the message block at the bottom of the application. 
 
   ![FileFiesta2](./Media/Screenshots/Files_Fiesta2.jpg)
 
-- Once the files are created feel free to move them around, rename them, or whatever is needed to make a more convicint environment.
+  - Once the files are created feel free to move them around, rename them, or whatever is needed to make a more convicint environment.
 
   ![ShareFiles](./Media/Screenshots/Share_Files.jpg)
 
