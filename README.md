@@ -21,7 +21,7 @@ This project is designed to be small (35MB roughly) so you don't need to migrate
   - Main python executable
 - Randomwords.txt
   - list of random words it uses to name the files
-  - This file was kept seperate from the EXE so you can add/remove possible file names. Making customizable to your environment.
+  - This file was kept seperate from the EXE so you can add/remove possible file names. Making it customizable to your environment.
 - sombrero_PNG7.png
   - Because you can't have a fiesta without it!
   - It also won't run without it....
